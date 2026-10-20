@@ -1,16 +1,25 @@
-## Hi there 👋
+# Destiny Shaba
 
-<!--
-**Aiclock/Aiclock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Content Writer & Automation Specialist** · Founder, Eri-Tech Global
 
-Here are some ideas to get you started:
+I build the systems behind content — AI-assisted content production, automation workflows, and websites for small businesses. Based in Nigeria, working globally. I also write enterprise technical content at GAO Tek Inc., where I lead a squad training 40+ interns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- **AI & Content Writing** — research-led, human-readable content produced through repeatable AI-assisted workflows
+- **AI Automation** — workflow design that reduces repetitive manual work and keeps production consistent
+- **Website Design** — small-business sites where structure, copy, and design work together
+- **Digital Solutions Consulting** — practical support from setup and review to implementation
+
+## Featured projects
+- **AI CLOCK** — a free voice-first AI marketing agent for the African market → https://aiclock360.com
+- **AI Marketing Playbook** — a four-volume small-business AI book series produced through one reusable pipeline → https://amzn.to/3UZXChQ
+- **Dagbala Development Union** — end-to-end website build → https://dagbalaunited.org
+- **Bdynamicshub** — homepage, About, and Contact restructure → https://bdynamicshub.com
+
+## Selected results
+- Grew Omora Luxury's TikTok page from 60 to 800+ followers in 5 days
+- Enterprise AI/RFID and AI/IoT technical content for GAO Tek Inc.
+
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/destinyshaba228
+- Email: infoeritechglobal@gmail.com
